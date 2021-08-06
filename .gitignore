@@ -1,32 +1,10 @@
-# Prerequisites
-*.d
+_site/*
+_theme_packages/*
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+Thumbs.db
+.DS_Store
 
-# Precompiled Headers
-*.gch
-*.pch
+!.gitkeep
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+.rbenv-version
+.rvmrc
